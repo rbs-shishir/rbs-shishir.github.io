@@ -103,7 +103,7 @@ main > * {
 .right_column img {
     width: 50%;
     border-radius: 5%;
-    filter: grayscale(1);
+    filter: none;
     cursor: pointer;
     transition: filter 1s;
 }
