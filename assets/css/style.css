@@ -112,6 +112,7 @@ main > * {
 }
 .left_column h2 {
     font-size: 4.5rem;
+    font-weight: 600;
 }
 .left_column h2 span {
     color: #8c9eff;
