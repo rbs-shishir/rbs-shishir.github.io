@@ -209,6 +209,7 @@ main > * {
     main {
         display: block;
         text-align: center;
+        position: relative;
     }
     .left_column h4 {
         margin-bottom: 3.2rem;
